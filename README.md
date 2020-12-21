@@ -1,8 +1,11 @@
 # WebRTC-firebase
  Simple video chat application using the WebRTC API in your browser and Cloud Firestore for signaling
 
-# Run the thing
-> npm -g install firebase-tools
+# Demo  
+https://fyvel-webrtc.web.app/
+
+# Run the thing locally
+> npm -g install firebase-tools  
 > firebase emulators:start
 
 ---
