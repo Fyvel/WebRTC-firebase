@@ -1,0 +1,19 @@
+{
+	"name": "webrtc-firebase",
+	"version": "1.0.0",
+	"description": "Simple video chat application using the WebRTC API in your browser and Cloud Firestore for signaling",
+	"main": "public/",
+	"scripts": {
+		"build": "echo \"✅ Nothing to build yet, all good\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Fyvel/WebRTC-firebase.git"
+	},
+	"author": "Fyvel",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Fyvel/WebRTC-firebase/issues"
+	},
+	"homepage": "https://github.com/Fyvel/WebRTC-firebase#readme"
+}
